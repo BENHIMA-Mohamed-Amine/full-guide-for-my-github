@@ -4,8 +4,10 @@
 This repo contain all links to my repos in github, in order to facilitate navigation for users
 
 #### NLP
-- [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deeply understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 - [Bidirectional Arabic-English Translation Application using hugging face and flask](https://github.com/BENHIMA-Mohamed-Amine/Bidirectional-Arabic-English-Translation-Application)
+- [POS Tagging using HMMs and Viterbi algo from scratch](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/POS-Tagging-HMM-Viterbi)
+- [Frequency Based Sentiment Analysis in naive bayes from scratch using Numpy for better intuition](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Naive-Baye-Sentiment-Analysis)
+- [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
 - [L layer NN from Scratch using Numpy, for cat classification](https://github.com/BENHIMA-Mohamed-Amine/Binary-classification/blob/master/NN_multiple_hidden_layer.ipynb)
