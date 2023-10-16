@@ -5,6 +5,7 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 
 #### NLP
 - [Bidirectional Arabic-English Translation Application using hugging face and flask](https://github.com/BENHIMA-Mohamed-Amine/Bidirectional-Arabic-English-Translation-Application)
+- [Build and train a CBOW model from scratch using Numpy, and visualize results](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Build-Train-CBOW-model)
 - [Auto Complete words using N-grams language model from scratch](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Word-AutoComplete-Ngram)
 - [POS Tagging using HMMs and Viterbi algo from scratch](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/POS-Tagging-HMM-Viterbi)
 - [Frequency Based Sentiment Analysis in naive bayes from scratch using Numpy for better intuition](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Naive-Baye-Sentiment-Analysis)
