@@ -14,6 +14,9 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
+- [Binary classifier for Ad click](https://github.com/BENHIMA-Mohamed-Amine/add-click-logistic-regression/blob/main/advertising.csv)
+  - EDA
+  - Hyper-parameter tuning using GridSearchCV 
 - [Different techniques to handle outliers](https://github.com/BENHIMA-Mohamed-Amine/handle-outliers/blob/main/handle_outliers.ipynb)
 - [Handling missing values on the Titanic dataset](https://github.com/BENHIMA-Mohamed-Amine/Handle-missing-values/blob/main/handling_messing_values.ipynb)
 - [L layer NN from Scratch using Numpy, for cat classification](https://github.com/BENHIMA-Mohamed-Amine/Binary-classification/blob/master/NN_multiple_hidden_layer.ipynb)
