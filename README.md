@@ -15,6 +15,9 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 
 #### ML projects
 - [Dermatology multi classification using Logistic Regression](https://github.com/BENHIMA-Mohamed-Amine/Dermatology-/blob/main/multi-class-with-logistic-regression.ipynb)
+  - using fasteda and dabl for EDA
+  - Logistic Regression model for classification
+  - classification report to show up metrics
 - [Binary classifier for Ad click](https://github.com/BENHIMA-Mohamed-Amine/add-click-logistic-regression/blob/main/advertising.csv)
   - EDA
   - Hyper-parameter tuning using GridSearchCV 
