@@ -14,6 +14,7 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
+- [Dermatology multi classification using Logistic Regression](https://github.com/BENHIMA-Mohamed-Amine/Dermatology-/blob/main/multi-class-with-logistic-regression.ipynb)
 - [Binary classifier for Ad click](https://github.com/BENHIMA-Mohamed-Amine/add-click-logistic-regression/blob/main/advertising.csv)
   - EDA
   - Hyper-parameter tuning using GridSearchCV 
