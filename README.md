@@ -14,6 +14,9 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
+- [Build a KNN Classifier from scratch using NumPy](https://github.com/BENHIMA-Mohamed-Amine/KNN_from_scratch/blob/main/knn.ipynb)
+  - Train in on the Iris dataset from sklearn
+  - Accuracy: 97% 
 - [Dermatology multi classification using Logistic Regression](https://github.com/BENHIMA-Mohamed-Amine/Dermatology-/blob/main/multi-class-with-logistic-regression.ipynb)
   - using fasteda and dabl for EDA
   - Logistic Regression model for classification
