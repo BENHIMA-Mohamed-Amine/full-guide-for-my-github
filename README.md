@@ -14,6 +14,7 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
+- [Build NN using Pytorch and train it on iris dataset](https://github.com/BENHIMA-Mohamed-Amine/iris-prbl-torch/blob/main/iris_classification_pytorch.ipynb) 
 - [Build a KNN Classifier from scratch using NumPy](https://github.com/BENHIMA-Mohamed-Amine/KNN_from_scratch/blob/main/knn.ipynb)
   - Train in on the Iris dataset from sklearn
   - Accuracy: 97% 
