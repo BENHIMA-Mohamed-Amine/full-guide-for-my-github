@@ -4,6 +4,7 @@
 This repo contain all links to my repos in github, in order to facilitate navigation for users
 
 #### NLP
+- [Website Summarizer that summarizes websites by providing only their URL, using LangChain and Streamlit](https://github.com/BENHIMA-Mohamed-Amine/Website-Summarizer)
 - [Use Semantic search on an existing db using chromadb](https://github.com/BENHIMA-Mohamed-Amine/Semantic_search_using_chromadb/blob/main/semantic_search_using_chromadb.ipynb)
 - [Bidirectional Arabic-English Translation Application using hugging face and flask](https://github.com/BENHIMA-Mohamed-Amine/Bidirectional-Arabic-English-Translation-Application)
 - [Build a Transformer architecture using TensorFlow for MT from es to en](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/blob/master/build_a_transformer_network_tensorflow.ipynb)
