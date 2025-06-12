@@ -7,7 +7,7 @@ This repo contain important links to my repos in github, to facilitate navigatio
 - [Agentic coding exercise generation and evaluation project using: langchain, langgraph (ReACT agent), lagnsmith (LLM Monotoring and Debugging), Sandbox tool, Flask for REST API and Render for deployment](https://github.com/BENHIMA-Mohamed-Amine/generate-qcm-codingExo-evaluate-codingExo)
 - [Website Summarizer that summarizes websites by providing only their URL, using LangChain (RAG) and Streamlit for interface and deplyoment](https://github.com/BENHIMA-Mohamed-Amine/Website-Summarizer)
 - [Use Semantic search on an existing db using chromadb](https://github.com/BENHIMA-Mohamed-Amine/Semantic_search_using_chromadb/blob/main/semantic_search_using_chromadb.ipynb)
-- [Solifood project, my tasks were: implement hybrid search, implement a recommendation system, implement an AI assistant](https://github.com/solution-challenge-2024/semantic_search)
+- [Solifood project, my tasks were: implementing hybrid search, recommendation system, AI assistant](https://github.com/solution-challenge-2024/semantic_search)
 
 #### NLP
 - [fine-tuning bert on customer banks reviews using HuggingFace](https://github.com/BENHIMA-Mohamed-Amine/fine-tuning-bert)
