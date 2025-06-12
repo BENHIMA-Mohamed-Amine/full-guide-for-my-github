@@ -3,7 +3,11 @@
 
 This repo contain all links to my repos in github, in order to facilitate navigation for users
 
+#### GenAI
+- [Agentic coding exercise generation and evaluation project](https://github.com/BENHIMA-Mohamed-Amine/generate-qcm-codingExo-evaluate-codingExo)
+
 #### NLP
+- [fine-tuning bert on customer banks reviews using HuggingFace](https://github.com/BENHIMA-Mohamed-Amine/fine-tuning-bert)
 - [Website Summarizer that summarizes websites by providing only their URL, using LangChain and Streamlit](https://github.com/BENHIMA-Mohamed-Amine/Website-Summarizer)
 - [Use Semantic search on an existing db using chromadb](https://github.com/BENHIMA-Mohamed-Amine/Semantic_search_using_chromadb/blob/main/semantic_search_using_chromadb.ipynb)
 - [Bidirectional Arabic-English Translation Application using hugging face and flask](https://github.com/BENHIMA-Mohamed-Amine/Bidirectional-Arabic-English-Translation-Application)
@@ -15,6 +19,7 @@ This repo contain all links to my repos in github, in order to facilitate naviga
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
 #### ML projects
+- [Player object detection using YoLOv8](https://github.com/BENHIMA-Mohamed-Amine/Blockard-Player-Object-Detection)
 - [Build NN using Pytorch and train it on iris dataset](https://github.com/BENHIMA-Mohamed-Amine/iris-prbl-torch/blob/main/iris_classification_pytorch.ipynb) 
 - [Build a KNN Classifier from scratch using NumPy](https://github.com/BENHIMA-Mohamed-Amine/KNN_from_scratch/blob/main/knn.ipynb)
   - Train in on the Iris dataset from sklearn
