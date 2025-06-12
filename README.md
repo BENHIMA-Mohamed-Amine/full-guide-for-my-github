@@ -1,7 +1,7 @@
 
 # full-guide-for-my-github
 
-This repo contain all links to my repos in github, in order to facilitate navigation for users
+This repo contain important links to my repos in github, to facilitate navigation for viewers
 
 #### GenAI
 - [Agentic coding exercise generation and evaluation project](https://github.com/BENHIMA-Mohamed-Amine/generate-qcm-codingExo-evaluate-codingExo)
