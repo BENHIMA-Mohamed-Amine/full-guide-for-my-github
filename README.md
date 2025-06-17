@@ -20,8 +20,11 @@ This repo contain important links to my repos in github, to facilitate navigatio
 - [Frequency Based Sentiment Analysis in naive bayes from scratch using Numpy for better intuition](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Naive-Baye-Sentiment-Analysis)
 - [Frequency Based Sentiment Analysis in Logistic Regression from scratch using Numpy for deepe understanding](https://github.com/BENHIMA-Mohamed-Amine/NLP-Projects/tree/master/Frequency-Based-Sentiment-Analysis-in-Logistic-Regression)
 
-#### ML projects
+### CV Project
+- [Fine-tuning resnet50 on PlantVillage dataset for Plant diseases detection](https://github.com/BENHIMA-Mohamed-Amine/Plant-Diseases-Detection-ResNet50-PlantVillage-Dataset)
 - [Player object detection using YoLOv8](https://github.com/BENHIMA-Mohamed-Amine/Blockard-Player-Object-Detection)
+
+#### ML projects
 - [Build NN using Pytorch and train it on iris dataset](https://github.com/BENHIMA-Mohamed-Amine/iris-prbl-torch/blob/main/iris_classification_pytorch.ipynb) 
 - [Build a KNN Classifier from scratch using NumPy](https://github.com/BENHIMA-Mohamed-Amine/KNN_from_scratch/blob/main/knn.ipynb)
   - Train in on the Iris dataset from sklearn
