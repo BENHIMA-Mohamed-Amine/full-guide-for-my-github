@@ -1,7 +1,7 @@
 
 # full-guide-for-my-github
 
-This repo contain important links to my repos in github, to facilitate navigation for viewers
+This repo contains important links to my repos in github, to facilitate navigation for viewers
 
 #### GenAI
 - [Agentic coding exercise generation and evaluation project using: langchain, langgraph (ReACT agent), lagnsmith (LLM Monotoring and Debugging), Sandbox tool, Flask for REST API and Render for deployment](https://github.com/BENHIMA-Mohamed-Amine/generate-qcm-codingExo-evaluate-codingExo)
